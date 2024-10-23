@@ -18,7 +18,7 @@ Each **Pull Request** in this repository represents a **step-by-step implementat
 
 ## How to Use
 
-1. **Browse the pull requests**: Each one contains a detailed description of the feature or implementation it covers.
+1. **Browse the pull requests**: Each one contains a detailed description of the feature or implementation it covers. [Here](https://github.com/aflopezbec/flutter_example/pulls?q=is%3Apr+is%3Aclosed)
 2. **Review the changes**: You can explore the code changes step by step to see how the implementation evolves.
 3. **Clone the repository**: If you want to try out the examples locally.
 
